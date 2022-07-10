@@ -14,4 +14,4 @@ Sushi lovers now listen up! This project scraped all the sushi restauarants in S
 - Requests
 
 # Database
-The scraped information is stored in MySQL database
+The scraped information is stored in MySQL database.
