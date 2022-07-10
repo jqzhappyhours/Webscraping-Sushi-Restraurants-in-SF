@@ -1,5 +1,5 @@
 # Webscraping-Sushi-Restraurants-in-SF
-Sushi lovers now listen up! This project scraped all the sushi restauarants in SF up untill 7/10/2022. We can use the scraped information to decide which sushi restaurant to go to for dinner.
+Sushi lovers now listen up! This project scraped all the sushi restauarants in SF up untill 7/10/2022. We can use the scraped information to decide which sushi restaurant to go to for dinner conviniently without scrolling through all the pages.
 
 # Scraped Features
 - Restaurant name
